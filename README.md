@@ -1,4 +1,4 @@
-# GitHub Profile Page
+# Organization's Profile Customization
 
 Contains `profile/README.md` as described here:
 
